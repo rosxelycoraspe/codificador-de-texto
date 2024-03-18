@@ -18,9 +18,13 @@ em colaboração com a Alura. A aplicação permite aos usuários inserir mensag
 
 Este projeto é feito com as seguintes tecnologias:
 
-- **HTML:** Utilizado para criar a estrutura da página web.
-- <span style="color: #1572B6;">**CSS:**</span> Utilizado para estilizar e dar formato à interface do usuário.
-- <span style="color: #F7DF1E;">**JavaScript:**</span> Utilizado para implementar a lógica por trás da criptografia, descriptografia e funcionalidades interativas.
+| Tecnologia | Descrição                                       |
+|------------|-------------------------------------------------|
+| <span style="color:#0000FF;">HTML</span>   | Utilizado para criar a estrutura da página web. |
+| <span style="color:#00FF00;">CSS</span>    | Utilizado para estilizar e dar formato à interface do usuário. |
+| <span style="color:#FFFF00;">JavaScript</span> | Utilizado para implementar a lógica por trás da criptografia, descriptografia e funcionalidades interativas. |
+
+
 
 
 
