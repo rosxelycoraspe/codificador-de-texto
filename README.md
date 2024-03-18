@@ -13,19 +13,13 @@ em colaboração com a Alura. A aplicação permite aos usuários inserir mensag
 - **Copiar Texto:** Um botão "Copiar" permite aos usuários copiar o texto processado para a área de transferência.
 
 
-
 ## Tecnologias Utilizadas
 
 Este projeto é feito com as seguintes tecnologias:
 
-| Tecnologia | Descrição                                       |
-|------------|-------------------------------------------------|
-| <span style="color:#0000FF;">HTML</span>   | Utilizado para criar a estrutura da página web. |
-| <span style="color:#00FF00;">CSS</span>    | Utilizado para estilizar e dar formato à interface do usuário. |
-| <span style="color:#FFFF00;">JavaScript</span> | Utilizado para implementar a lógica por trás da criptografia, descriptografia e funcionalidades interativas. |
-
-
-
+- **HTML:** Utilizado para criar a estrutura da página web.
+- **CSS:** Utilizado para estilizar e dar formato à interface do usuário.
+- **JavaScript:** Utilizado para implementar a lógica por trás da criptografia, descriptografia e funcionalidades interativas.
 
 
 ## Responsividade
@@ -44,3 +38,5 @@ O projeto foi desenvolvido por Rosxely Coraspe.
 3. Clique em "Criptografar" ou "Descriptografar" para processar o texto.
 4. Use o botão "Copiar" para copiar o texto processado para a área de transferência, se desejar.
 
+     
+                🚀 Aproveite o projeto e divirta-se codificando!
