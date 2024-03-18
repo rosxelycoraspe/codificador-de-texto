@@ -37,4 +37,7 @@ O projeto foi desenvolvido por Rosxely Coraspe.
 2. Insira uma mensagem de texto na área designada.
 3. Clique em "Criptografar" ou "Descriptografar" para processar o texto.
 4. Use o botão "Copiar" para copiar o texto processado para a área de transferência, se deseja.
+
+
 🚀 Aproveite o projeto e divirta-se codificando!
+
